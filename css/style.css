@@ -1,0 +1,261 @@
+/* fonts in class */
+.nunito {
+    font-family: "Nunito Sans";
+}
+
+.red_hot_display {
+    font-family: "Red Hat Display";
+}
+
+/* fonts in class end*/
+.dark_green {
+    color: #194c26;
+}
+.bg_dark_green{
+    background-color: #194c26;
+}
+.brs10{
+border-radius: 10px;
+}
+.bg_color {
+
+    background-image: linear-gradient(180deg, #e4eeee 66%, #ffffff 100%);
+   
+    height: 688px;
+
+}
+.white_color{
+    color: #ffffff;
+}
+
+.ancher {
+    color: #000000;
+    font-family: "Nunito Sans";
+    font-size: 20px;
+    font-weight: 400;
+    font-style: normal;
+    letter-spacing: normal;
+    line-height: normal;
+
+    /* Text style for "About" */
+    font-style: normal;
+    letter-spacing: normal;
+    line-height: normal;
+
+}
+
+.ancher:hover {
+    color: #000000;
+    font-family: "Nunito Sans";
+    font-size: 20px;
+    font-weight: 700;
+
+}
+
+.active {
+    color: #000000;
+    font-family: "Nunito Sans";
+    font-size: 20px;
+    font-weight: 700;
+    font-style: normal;
+    letter-spacing: normal;
+    line-height: normal;
+    text-align: left;
+    /* Text style for "Home" */
+    font-style: normal;
+    letter-spacing: normal;
+    line-height: normal;
+    border-bottom: 3px solid #81bd45;
+}
+
+.p0 {
+    padding: 0px !important;
+}
+
+
+button {
+    color: #ffffff;
+    font-family: "Nunito Sans";
+    font-size: 20px;
+    font-weight: 700;
+    font-style: normal;
+    letter-spacing: normal;
+    line-height: normal;
+    text-align: center;
+}
+
+.btn-primary {
+
+    border-radius: 32px;
+    background-color: #81bd45;
+    padding: 12px 43px;
+    border-color: #81bd45;
+}
+
+.btn-primary:hover {
+    background-color: #81bd45;
+    border-color: #81bd45;
+}
+
+.btn-check:active+.btn-primary:focus,
+.btn-check:checked+.btn-primary:focus,
+.btn-primary.active:focus,
+.btn-primary:active:focus,
+.show>.btn-primary.dropdown-toggle:focus {
+    box-shadow: 0 0 0 0.25rem #81bd45 !important;
+}
+
+.btn-check:focus+.btn-primary,
+.btn-primary:focus {
+    color: #fff;
+    background-color: #81bd45 !important;
+    border-color: #81bd45 !important;
+    box-shadow: none !important;
+}
+
+
+
+.btn-secondary {
+    border-radius: 32px;
+    background-color: #ffffff;
+    padding: 12px 43px;
+    border-color: #ffffff;
+    color: #000000 !important;
+}
+
+
+
+.btn-secondary:hover {
+    background-color: #ffffff;
+    border-color: #ffffff;
+}
+
+.btn-check:active+.btn-secondary:focus,
+.btn-check:checked+.btn-secondary:focus,
+.btn-secondary.active:focus,
+.btn-secondary:active:focus,
+.show>.btn-secondary.dropdown-toggle:focus {
+    box-shadow: 0 0 0 0.25rem #ffffff !important;
+}
+
+.btn-check:focus+.btn-secondary,
+.btn-secondary:focus {
+    color: #fff;
+    background-color: #ffffff !important;
+    border-color: #ffffff !important;
+    box-shadow: none !important;
+}
+
+.mt110 {
+    margin-top: 110px;
+}
+
+.span_color {
+    color: #81bd45;
+}
+
+h1 {
+    color: #194c26;
+    ;
+    font-family: "Red Hat Display";
+    font-size: 65px;
+    font-weight: 900;
+    font-style: normal;
+    letter-spacing: normal;
+    line-height: 63px;
+    text-align: left;
+
+}
+
+p {
+    color: #4f5a62;
+    font-family: "Red Hat Display";
+    font-size: 20px;
+    font-weight: 400;
+
+    line-height: 36px !important;
+    text-align: left;
+    /* Text style for "Lorem ipsu" */
+    font-style: normal;
+    letter-spacing: normal;
+
+}
+
+.card {
+    border: none;
+}
+
+.card-title {
+    color: #194c26;
+    font-family: "Red Hat Display";
+    font-size: 30px;
+    font-weight: 900;
+    line-height: 29px;
+}
+.border_bottom{
+    border-bottom: 1px solid #cbc6c6
+}
+h6{
+    color: #81bd45;
+font-family: "Red Hat Display";
+font-size: 27px;
+font-weight: 700;
+font-style: normal;
+letter-spacing: normal;
+line-height: 31px;
+text-align: left;
+}
+h2{
+    color: #194c26;
+font-family: "Red Hat Display";
+font-size: 55px;
+font-weight: 900;
+font-style: normal;
+letter-spacing: normal;
+line-height: 63px;
+}
+
+.button1 {
+    background-color: #81bd45;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    cursor: pointer;
+    width: 635px;
+    height: 63px;
+    border-bottom-left-radius: 7px;
+    border-bottom-right-radius: 7px;
+
+
+}
+.form-control:focus {
+    color: #212529;
+    background-color: #fff;
+    border-color: #81bd45;
+    outline: 0;
+    box-shadow: 0 0 0 -1.75rem #81bd45;
+}
+.bg-color{
+    background-color: #e4eeee;
+}
+.card_padding{
+    padding-top: 62px;
+    padding-left: 87px;
+}
+.h390{
+    height: 390px;
+}
+.ups{
+    position: relative;
+    bottom: 205px;
+}
+.mb280{
+    margin-bottom: 280px;
+}
+.mt-230{
+    margin-top: -230px;
+}

@@ -1,0 +1,101 @@
+@media (max-width: 575.98px) { 
+    h1 {
+        font-size: 46px; 
+        line-height: 50px;
+    }
+    .mt110 {
+        margin-top: 24px;
+    }
+
+    .button1 {
+        width: 389px  !important;
+    }
+.mob_margin_top{
+    margin-top: 154px;
+
+}
+.ml3rem{
+    margin-left: 3rem !important;
+}
+h2{
+    font-size: 43px;
+    line-height: 40px;
+}
+.mb31{
+    margin-bottom: 31px;
+}
+.img_responsive{
+    width: 100% !important;
+    height: 100% !important;
+}
+.card_padding{
+    padding-left: 10px;
+}
+.pb{
+    padding-bottom: 2rem;
+}
+.img_responsive1{
+    width: 100% !important;
+}
+.ps4{
+    padding-left: 0px!important;
+    margin-top: 7px;
+}
+.active{
+    width: 56px;
+}
+
+.h390 {
+   
+    height: 91%;
+}
+.pto{
+    padding-top: 0px !important;
+    margin-top: 0px !important;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
+
+@media (max-width: 1024px) {
+    .button1{
+        width: 456px ;
+    }
+    .img_responsive{
+        width: 100% !important;
+        height: 100% !important;
+    }
+    
+
+  
+    .card_padding{
+        padding-left: 10px;
+    }
+
+
+
+
+
+     }
+
+     @media (min-width: 1365px) and (max-width: 1366px) { 
+
+        .button1 {
+            width: 546px;
+        }
+
+
+
+      }
